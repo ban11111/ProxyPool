@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/henson/ProxyPool/models"
+	"ProxyPool/models"
 	"github.com/parnurzeal/gorequest"
 )
 

@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/henson/ProxyPool/models"
+	"ProxyPool/models"
 	"github.com/parnurzeal/gorequest"
 )
 
